@@ -6,9 +6,9 @@ driver = webdriver.Firefox()
 #getstarted
 driver.set_window_size(1024,768)
 #enter URL to casino lobby
-driver.get('http://sta-all-kiv-gt4-setup01-tcl01.nix.cydmodule.com:8080/casinolobby/home2.xhtml')
+driver.get('http://sta-kiv-gt2-setup01-tcl01.nix.cydmodule.com:8080/casinolobby/home2.xhtml')
 
-password = driver.find_element_by_class_name("header-links header-links-last navigation__item__button login-window").click()
+#password = driver.find_element_by_class_name("header-links header-links-last navigation__item__button login-window").click()
 #password.click()
 
 username = driver.find_element_by_name("login")
