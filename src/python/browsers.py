@@ -1,0 +1,1 @@
+browsers.array(['FireFox', 'Chrome', 'Ie'])
