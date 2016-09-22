@@ -2,17 +2,617 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a12882-047d-4def-8983-41b343558132" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/python/config.py" afterPath="$PROJECT_DIR$/src/python/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/python/init.py" afterPath="$PROJECT_DIR$/src/python/init.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/.bin/rimraf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/adm-zip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/headers/entryHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/headers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/headers/mainHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/methods/deflater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/methods/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/methods/inflater.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/blank file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/fast.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/fastest.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/linux_arc.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/maximum.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/normal.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/store.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/ultra.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/util/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/util/errors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/util/fattr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/util/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/util/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/zipEntry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/zipFile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/balanced-match/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/balanced-match/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/balanced-match/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/balanced-match/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/balanced-match/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/brace-expansion/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/brace-expansion/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/brace-expansion/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/example/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/concat-map/test/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/fs.realpath/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/fs.realpath/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/fs.realpath/old.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/fs.realpath/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/glob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/glob/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/glob/glob.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/glob/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/glob/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inflight/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inflight/inflight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inflight/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/minimatch/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/minimatch/minimatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/minimatch/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/once/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/once/once.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/once/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/options/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/options/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/options/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/options/lib/options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/options/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/path-is-absolute/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/path-is-absolute/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/path-is-absolute/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/rimraf/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/rimraf/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/rimraf/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/rimraf/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/rimraf/rimraf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/AUTHORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/LICENSE-W3C.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/big-not-pretty.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/get-products.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/hello-world.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/not-pretty.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/pretty-print.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/shopping.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/strict.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/examples/test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/lib/sax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/attribute-name.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/attribute-no-space.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/buffer-overrun.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/case.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cdata-chunked.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cdata-end-split.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cdata-fake-end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cdata-multiple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/cyrillic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/duplicate-attribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/emoji.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/end_empty_stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/entities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/entity-mega.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/flush.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-23.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-30.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-35.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-47.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-49.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/issue-84.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/parser-position.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/script-close-better.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/self-closing-child-strict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/self-closing-child.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/self-closing-tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/stray-ending.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/trailing-attribute-no-value.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/trailing-non-whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/unclosed-root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/unquoted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/utf8-split.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-as-tag-name.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-issue-41.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-rebinding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-strict.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-unbound-element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-unbound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-xml-default-ns.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-xml-default-prefix-attribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-xml-default-prefix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/sax/test/xmlns-xml-default-redefine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/chrome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/edge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/chrome_android.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/chrome_mobile_emulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/google_search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/google_search_generator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/google_search_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/logging.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/example/parallel_flows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/firefox/binary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/firefox/extension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/firefox/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/firefox/profile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/http/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/http/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/io/exec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/io/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/by.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/capabilities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/command.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/devmode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/firefox/amd64/libnoblur64.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/firefox/i386/libnoblur.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/firefox/webdriver.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/firefox/webdriver.xpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/logging.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/promise.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/safari/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/symbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/ClickTest_testClicksASurroundingStrongTag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Page.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Page.aspx.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Redirect.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Redirect.aspx.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Settings.StyleCop" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/Web.Config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/actualXhtmlPage.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/ajaxy_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/alerts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/banner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/beach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/bodyTypingTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/booleanAttributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/child/childPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/child/grandchild/grandchildPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/clickEventPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_frames.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_jacker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_out_of_bounds.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_out_of_bounds_overflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_source.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/click_iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/click_in_iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/disappearing_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/google_map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/google_map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/html5_submit_buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/issue5237_target.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/link_that_wraps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/mapped_page3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/overlapping_elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/partially_overlapping_elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/span_that_wraps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/submitted_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_tests/wrapped_overlapping_elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_too_big.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/click_too_big_in_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/clicks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/closeable_window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/cn-test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/colorPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/cookies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/element_in_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/element_in_nested_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_element_out_of_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_empty_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_fixed_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_hidden_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_invisible_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/page_with_transparent_element.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/coordinates_tests/simple_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/css/ui-lightness/jquery-ui-1.8.10.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/cssTransform.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/cssTransform2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/document_write_in_onload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/dragAndDropInsideScrolledDiv.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/dragAndDropTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/dragDropOverflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/draggableLists.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/droppableItems.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/dynamic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/dynamicallyModifiedPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/firefox/jetpack-sample.xpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/firefox/sample.xpi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/fixedFooterNoScroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/fixedFooterNoScrollQuirksMode.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/formPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/formSelectionPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/form_handling_js_submit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/framePage3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frameScrollChild.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frameScrollPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frameScrollParent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frameWithAnimals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/bug4876_iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frame_switching_tests/deletingFrame_iframe2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/frameset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/framesetPage2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/framesetPage3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/globalscope.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/hidden.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/hidden_partially.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/database.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/geolocation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/green.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/red.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/status.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/test.appcache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5/yellow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/html5Page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/idElements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/iframeAtBottom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/iframeWithAlert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/iframeWithIframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/iframes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/injectableContent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/javascriptEnhancedForm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/javascriptPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/jquery-1.3.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/jquery-1.4.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/jquery-ui-1.8.10.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/content.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/object.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/img/trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/skin.ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/skins/lightgray/skin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/themes/modern/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/js/tinymce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/key_tests/remove_on_keypress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/keyboard_shortcut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/linked_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected_html4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/longContentPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/macbeth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/map_visibility.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/markerTransparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/messages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/meta-redirect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/missedJsReference.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modal_3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/modal_dialogs/modalindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/mouseOver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/mousePositionTracker.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/nestedElements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow-body.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_hidden.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_auto_y_scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_hidden.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_hidden_y_scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_hidden.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/overflow/x_scroll_y_scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/pageWithOnBeforeUnloadMessage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/pageWithOnLoad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/pageWithOnUnload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/page_with_link_to_slow_loading_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/plain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/proxy/page1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/proxy/page2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/proxy/page3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/readOnlyPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/rectangles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/resultPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/rich_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/safari/frames_benchmark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_frame2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_frames.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_iframes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_too_long.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_long.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_x_too_long.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_y_long.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/screen/screen_y_too_long.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scroll2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scroll3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scroll4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scroll5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_height_above_200.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_height_above_2000.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_nested_scrolling_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_nested_scrolling_frame_out_of_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/frame_with_small_height.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_double_overflow_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_frame_out_of_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_nested_scrolling_frames_out_of_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_non_scrolling_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_scrolling_frame_out_of_view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_tall_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_y_overflow_auto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/target_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/selectPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/selectableItems.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/sessionCookie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/sessionCookieDest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/simple.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/simpleTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/slowLoadingAlert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/slowLoadingResourcePage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/slow_loading_iframes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/styledPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/svgPiechart.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/svgTest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/tinymce.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/transformable.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/transformable.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/transparentUpload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/underscore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/unicode_ltr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/userDefinedProperty.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/veryLargeCanvas.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/visibility-css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/win32frameset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/window_switching_tests/page_with_frame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/window_switching_tests/simple_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/xhtmlFormPage.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/data/xhtmlTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/fileserver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/httpserver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/test/resources.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/until.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/lib/webdriver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/net/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/net/portprober.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/opera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/phantomjs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/proxy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/remote/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/safari.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/actions_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/chrome/options_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/chrome/service_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/cookie_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/element_finding_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/execute_script_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/fingerprint_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/firefox/extension_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/firefox/firefox_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/firefox/profile_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/http/http_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/http/util_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/io_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/by_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/capabilities_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/error_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/events_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/http_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/logging_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/promise_aplus_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/promise_error_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/promise_flow_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/promise_generator_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/promise_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/testutil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/until_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/lib/webdriver_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/logging_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/net/index_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/net/portprober_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/page_loading_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/phantomjs/execute_phantomjs_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/proxy_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/remote_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/safari_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/session_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/stale_element_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/tag_name_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/testing/assert_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/testing/index_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/upload_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/test/window_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/testing/assert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/selenium-webdriver/testing/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/domain-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/lib/tmp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test-all.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/dir-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/file-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/graceful.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/keep.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/name-test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/spawn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/symlinkme/file.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/tmp/test/unsafe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ultron/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/wrappy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/wrappy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/wrappy/wrappy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/SECURITY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/BufferPool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/BufferUtil.fallback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/BufferUtil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/ErrorCodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Extensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/PerMessageDeflate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Receiver.hixie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Receiver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Sender.hixie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Sender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Validation.fallback.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/Validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/WebSocket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/lib/WebSocketServer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/ws/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/83.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/canon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/incompat.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/incompat2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/lib/bom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/lib/processors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/lib/xml2js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/text.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/text.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xml2js/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/Utility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLAttribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLCData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLComment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDTDAttList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDTDElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDTDEntity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDTDNotation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDeclaration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDocType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDocument.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLDocumentCB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLNode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLRaw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLStreamWriter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLStringWriter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLStringifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLText.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/XMLWriterBase.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node_modules/xmlbuilder/package.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/node_modules/adm-zip/test/assets/attributes_test/asd/New Text Document.txt" afterPath="$PROJECT_DIR$/src/python/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/x.iml" afterPath="$PROJECT_DIR$/.idea/x.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/python/login.py" afterPath="$PROJECT_DIR$/src/python/login.py" />
     </list>
     <ignored path="x.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/x$login.coverage" NAME="login Coverage Results" MODIFIED="1474572616978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python" />
+    <SUITE FILE_PATH="coverage/x$init.coverage" NAME="init Coverage Results" MODIFIED="1474573869353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -23,31 +623,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="init.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="init.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/python/init.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="-19">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -59,19 +639,19 @@
         <entry file="file://$PROJECT_DIR$/src/python/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="39" />
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/python/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+            <state relative-caret-position="151">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +677,12 @@
         <option value="$PROJECT_DIR$/src/init.js" />
         <option value="$PROJECT_DIR$/src/js/init.js" />
         <option value="$PROJECT_DIR$/src/python/browsers.py" />
-        <option value="$PROJECT_DIR$/src/python/config.py" />
         <option value="$PROJECT_DIR$/src/python/init.py" />
+        <option value="$PROJECT_DIR$/src/python/gmae.py" />
+        <option value="$PROJECT_DIR$/src/python/games.py" />
+        <option value="$PROJECT_DIR$/src/python/list.py" />
+        <option value="$PROJECT_DIR$/src/python/config.py" />
+        <option value="$PROJECT_DIR$/src/python/login.py" />
       </list>
     </option>
   </component>
@@ -108,14 +692,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/src/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -157,7 +738,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
+              <option name="myItemId" value="netentx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,7 +748,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
+              <option name="myItemId" value="netentx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,7 +762,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
+              <option name="myItemId" value="netentx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -193,52 +774,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="screenshot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chromedriver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -246,7 +781,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/python/init.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="D:/Program Files (x86)/nodejs/node" />
@@ -264,6 +799,75 @@
     <configuration default="false" name="init.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/src/js/init.js" working-dir="$PROJECT_DIR$/src/js">
       <method />
     </configuration>
+    <configuration default="false" name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/python/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +880,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -290,7 +895,18 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <module name="x" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -303,6 +919,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -322,6 +939,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -341,6 +959,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -362,6 +981,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -384,6 +1004,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -410,14 +1031,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="x" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/python/init.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.init" />
+      <item index="1" class="java.lang.String" itemvalue="Python.login" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.login" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -443,21 +1071,22 @@
     <option name="totallyTimeSpent" value="1750000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1215" height="776" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2540633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2714724" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -506,6 +1135,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -652,14 +1325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -675,44 +1340,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/login" />
     <entry file="file://$PROJECT_DIR$/src/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="120">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/python/login">
+    <entry file="file://$PROJECT_DIR$/src/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/python/login.py">
+    <entry file="file://$PROJECT_DIR$/src/python/gmae.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/games.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/python/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="39" />
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/python/init.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="-19">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
