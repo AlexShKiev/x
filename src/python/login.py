@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 
-class HomePageTest (unittest.TestCase):
+class Loginlobby (unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.driver = webdriver.Firefox()
@@ -11,7 +11,7 @@ class HomePageTest (unittest.TestCase):
         cls.driver.maximize_window()
         cls.driver.get("http://sta-kiv-gt2-setup01-spp-01.nix.cydmodule.com:8080/admin/tester.jsp")
 
-    def test_shoping_cart_empty(self):
+    def log_to_cart(self):
 
         username=self.driver.find_element_by_css_selector("input[name=login]")
         passw=self.driver.find_element_by_name("password")
