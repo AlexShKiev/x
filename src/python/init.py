@@ -1,31 +1,42 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 driver = webdriver.Firefox()
 
 #getstarted
-driver.set_window_size(1024,768)
+#driver.set_window_size(1024,768)
 #enter URL to casino lobby
-driver.get('http://sta-kiv-gt2-setup01-tcl01.nix.cydmodule.com:8080/casinolobby/home2.xhtml')
+driver.get('http://sta-kiv-gt2-setup01-spp-01.nix.cydmodule.com:8080/admin/tester.jsp')
 
-#password = driver.find_element_by_class_name("header-links header-links-last navigation__item__button login-window").click()
-#password.click()
 
-username = driver.find_element_by_name("login")
+password = driver.find_element_by_name("password")
+password.send_keys("manager")
+
+username= driver.find_element_by_css_selector("input[name=login]")
 username.send_keys("manager")
-
-#test the first page of registration form
-
 
 password.send_keys(Keys.RETURN)
 
-#next = driver.find_element_by_name("submit").click()
-#driver.implicitly_wait(10)
+player = driver.find_element_by_css_selector("input[name=username]")
+player.send_keys("new_u2")
 
-#test the second page of registration form
+player.send_keys(Keys.RETURN)
 
-account = driver.find_element_by_id("account[name]")
-account.send_keys("Greentechnology")
-find_element_by_css_selector("select#help_desk_size = option[value='500-999']").click()
+game = driver.find_element_by_partial_link_text('wildwild').click()
 
-#next = driver.find_element_by_css_selector("a.button.button-orange.next.next-two").click()
+try:
+    element = WebDriverWait(driver, 50).until(
+        EC.presence_of_element_located((By.ID, "undefined"))
+    )
+finally:
+    driver.find_element_by_id('undefined').click()
+
+sound = driver.find_element_by_id('soundSettingsButton')
+sound.click()
+
+
+
+
