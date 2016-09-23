@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 driver = webdriver.Firefox()
 
 #getstarted
-#driver.set_window_size(1024,768)
+driver.set_window_size(1024,768)
 #enter URL to casino lobby
 driver.get('http://sta-kiv-gt2-setup01-spp-01.nix.cydmodule.com:8080/admin/tester.jsp')
 
@@ -28,14 +28,22 @@ player.send_keys(Keys.RETURN)
 game = driver.find_element_by_partial_link_text('wildwild').click()
 
 try:
-    element = WebDriverWait(driver, 50).until(
+    element = WebDriverWait(driver, 80).until(
         EC.presence_of_element_located((By.ID, "undefined"))
     )
 finally:
     driver.find_element_by_id('undefined').click()
 
-sound = driver.find_element_by_id('soundSettingsButton')
-sound.click()
+
+try:
+    element = WebDriverWait(driver, 60).until(
+        EC.presence_of_element_located((By.ID, "soundSettingsButton"))
+    )
+finally:
+    driver.find_element_by_id('soundSettingsButton').click()
+
+driver.close()
+
 
 
 
